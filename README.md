@@ -1,4 +1,4 @@
-# MixedMessages - Lord of the Rings Charcter Generator
+# MixedMessages - Lord of the Rings Character Generator
 
 ## Overview
 

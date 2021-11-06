@@ -2,7 +2,7 @@
 
 ## Overview
 
-For my first portfolio project, I decided to create a Lord of the Rings Character Generator, that will pick a character, and then based on the characters stats, assign a small quest.
+For my first portfolio project, I decided to create a Lord of the Rings Character Generator that will pick a character, and then based on the characters stats, assign a small quest.
 
 ## Technologies
 
